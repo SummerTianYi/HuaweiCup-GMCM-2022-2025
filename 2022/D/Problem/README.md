@@ -9,4 +9,4 @@
 | [attachment2.csv](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/problems/CPMCM/2022/D/attachment2.csv) | 25204 | 7a645cddbcbdcf43f910d8cf9c7b606170fee5e9 |
 | [attachment3.csv](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/problems/CPMCM/2022/D/attachment3.csv) | 5919 | 67cfdeabd608df1c3fef8f7921ddb3e3527b6816 |
 
-打开文件后用 Raw / Download 下载。分卷压缩包须下载全部分卷，并放在同一目录后解压；压缩包密码见年度官方公告。SHA256 将在总资源清单中补充；Git blob SHA-1 不等于 SHA256。许可未明确，不在本仓库复制原文件。
+打开文件后用 Raw / Download 下载。分卷压缩包须下载全部分卷，并放在同一目录后解压；压缩包密码见年度官方公告。SHA256 已实际计算，见 [PROBLEM_MANIFEST.csv](../../../Resources/PROBLEM_MANIFEST.csv)；Git blob SHA-1 不等于 SHA256。许可未明确，不在本仓库复制原文件。

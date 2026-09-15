@@ -8,4 +8,4 @@
 | [数据说明.docx](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/problems/CPMCM/2024/E/%E6%95%B0%E6%8D%AE%E8%AF%B4%E6%98%8E.docx) | 13024 | cb78288f986c2e37c9b0524a5af9d7fc5cf83837 |
 | [高速公路应急车道启用建模.docx](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/problems/CPMCM/2024/E/%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E5%BA%94%E6%80%A5%E8%BD%A6%E9%81%93%E5%90%AF%E7%94%A8%E5%BB%BA%E6%A8%A1.docx) | 109541 | 9c23b4c665e6816f917595b40659890d15805a0a |
 
-打开文件后用 Raw / Download 下载。分卷压缩包须下载全部分卷，并放在同一目录后解压；压缩包密码见年度官方公告。SHA256 将在总资源清单中补充；Git blob SHA-1 不等于 SHA256。许可未明确，不在本仓库复制原文件。
+打开文件后用 Raw / Download 下载。分卷压缩包须下载全部分卷，并放在同一目录后解压；压缩包密码见年度官方公告。SHA256 已实际计算，见 [PROBLEM_MANIFEST.csv](../../../Resources/PROBLEM_MANIFEST.csv)；Git blob SHA-1 不等于 SHA256。许可未明确，不在本仓库复制原文件。

@@ -15,4 +15,4 @@
 | [附件5：长春市疫情期间每日各区蔬菜包相关数据.zip](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/problems/CPMCM/2022/F/%E9%99%84%E4%BB%B65%EF%BC%9A%E9%95%BF%E6%98%A5%E5%B8%82%E7%96%AB%E6%83%85%E6%9C%9F%E9%97%B4%E6%AF%8F%E6%97%A5%E5%90%84%E5%8C%BA%E8%94%AC%E8%8F%9C%E5%8C%85%E7%9B%B8%E5%85%B3%E6%95%B0%E6%8D%AE.zip) | 2083652 | b755a625471d5ba18d3770c170477c882162e036 |
 | [附表2：长春市9个区隔离人口数量与生活物资投放点数量.xlsx](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/problems/CPMCM/2022/F/%E9%99%84%E8%A1%A82%EF%BC%9A%E9%95%BF%E6%98%A5%E5%B8%829%E4%B8%AA%E5%8C%BA%E9%9A%94%E7%A6%BB%E4%BA%BA%E5%8F%A3%E6%95%B0%E9%87%8F%E4%B8%8E%E7%94%9F%E6%B4%BB%E7%89%A9%E8%B5%84%E6%8A%95%E6%94%BE%E7%82%B9%E6%95%B0%E9%87%8F.xlsx) | 10635 | 5eeea2a4ca34a8e5b7d14e9111f1d96a60c9678a |
 
-打开文件后用 Raw / Download 下载。分卷压缩包须下载全部分卷，并放在同一目录后解压；压缩包密码见年度官方公告。SHA256 将在总资源清单中补充；Git blob SHA-1 不等于 SHA256。许可未明确，不在本仓库复制原文件。
+打开文件后用 Raw / Download 下载。分卷压缩包须下载全部分卷，并放在同一目录后解压；压缩包密码见年度官方公告。SHA256 已实际计算，见 [PROBLEM_MANIFEST.csv](../../../Resources/PROBLEM_MANIFEST.csv)；Git blob SHA-1 不等于 SHA256。许可未明确，不在本仓库复制原文件。

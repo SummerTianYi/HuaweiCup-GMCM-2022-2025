@@ -20,6 +20,6 @@
 | --- | --- | --- |
 | [jfbbcom/Experience-Sharing-of-the-21st-Huawei-Cup-China-Graduate-Students-Mathematical-Modeling-Competiti](https://github.com/jfbbcom/Experience-Sharing-of-the-21st-Huawei-Cup-China-Graduate-Students-Mathematical-Modeling-Competiti/tree/95c75c40d1bc19476e6cce32029aba162ab461c7/code/) | 1 | 作者自述一等奖，仅公开摘要和代码；无本队全文。根 E22104860014.pdf 是 2022 E。 |
 | [Tereaslle/2024-CPGMCM](https://github.com/Tereaslle/2024-CPGMCM/tree/dd2e4c7ceb0d80220e499f25f9c831e307132d63) | 27 | 磁芯损耗 Python Notebook；不收检查点备份；PDF 需先判别题面与论文。 |
-| [zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling2](https://github.com/zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling2/tree/0a33871898ef59c947e950638b2d667e5c02fe99/2024%E5%B9%B4C%E9%A2%98) | 50 | 明确对应本年本题的逐问代码；不收该仓其他年份。 |
+| [zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling2](https://github.com/zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling2/tree/0a33871898ef59c947e950638b2d667e5c02fe99/2024%E5%B9%B4C%E9%A2%98%E7%AC%AC1%E9%97%AE) | 50 | 明确对应本年本题的逐问代码；不收该仓其他年份。 |
 
 具体文件见 [资源清单](../../../Resources/RESOURCE_MANIFEST.csv)，kind=Data；不将模型输出、特征表当成官方完整原始输入。

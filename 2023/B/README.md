@@ -3,7 +3,7 @@
 [返回总导航](../../README.md)
 
 - **Problem**：[正式赛题、附件与来源](Problem/README.md)
-- **Paper**：[优秀/获奖论文](Excellent-Papers/README.md)：NF1 9 篇。
+- **Paper**：[优秀/获奖论文](Excellent-Papers/README.md)：NF1 9 篇；另含1篇Participant / Award Unverified全文。
 - **Code**：[作者代码索引](Code/README.md)，1 个来源；关系核验见索引。
 - **Data**：未发现独立数据文件；按题面定义构造输入或仿真，是否需要额外附件以题面为准。
 

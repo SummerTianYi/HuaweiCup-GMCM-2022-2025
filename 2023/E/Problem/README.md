@@ -8,4 +8,4 @@
 | [数据.rar](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/problems/CPMCM/2023/E/%E6%95%B0%E6%8D%AE.rar) | 735867 | d90b4b0fc7826c50fef6f4e3c604ee16019755dc |
 | [附件2-相关概念.docx](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/problems/CPMCM/2023/E/%E9%99%84%E4%BB%B62-%E7%9B%B8%E5%85%B3%E6%A6%82%E5%BF%B5.docx) | 633619 | 53e698ea71e1b3d3f6a0624a33375be10baaae17 |
 
-打开文件后用 Raw / Download 下载。分卷压缩包须下载全部分卷，并放在同一目录后解压；压缩包密码见年度官方公告。SHA256 将在总资源清单中补充；Git blob SHA-1 不等于 SHA256。许可未明确，不在本仓库复制原文件。
+打开文件后用 Raw / Download 下载。分卷压缩包须下载全部分卷，并放在同一目录后解压；压缩包密码见年度官方公告。SHA256 已实际计算，见 [PROBLEM_MANIFEST.csv](../../../Resources/PROBLEM_MANIFEST.csv)；Git blob SHA-1 不等于 SHA256。许可未明确，不在本仓库复制原文件。

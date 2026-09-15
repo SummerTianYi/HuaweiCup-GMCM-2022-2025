@@ -10,4 +10,4 @@
 | [数据2.2 .xlsx](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/problems/CPMCM/2023/C/%E6%95%B0%E6%8D%AE2.2%20.xlsx) | 1862259 | 03897a6ca8aa3fc293a5b6df8b5a82fbf049cafe |
 | [极差的定义及标准分的计算方法.docx](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/problems/CPMCM/2023/C/%E6%9E%81%E5%B7%AE%E7%9A%84%E5%AE%9A%E4%B9%89%E5%8F%8A%E6%A0%87%E5%87%86%E5%88%86%E7%9A%84%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95.docx) | 17738 | bc167a411ba8f3d4160243c443e81bc86b603b6e |
 
-打开文件后用 Raw / Download 下载。分卷压缩包须下载全部分卷，并放在同一目录后解压；压缩包密码见年度官方公告。SHA256 将在总资源清单中补充；Git blob SHA-1 不等于 SHA256。许可未明确，不在本仓库复制原文件。
+打开文件后用 Raw / Download 下载。分卷压缩包须下载全部分卷，并放在同一目录后解压；压缩包密码见年度官方公告。SHA256 已实际计算，见 [PROBLEM_MANIFEST.csv](../../../Resources/PROBLEM_MANIFEST.csv)；Git blob SHA-1 不等于 SHA256。许可未明确，不在本仓库复制原文件。

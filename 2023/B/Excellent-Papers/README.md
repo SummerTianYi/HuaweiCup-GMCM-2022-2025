@@ -13,3 +13,10 @@
 | [B23105580005](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/papers/CPMCM/2023/fulltext/B/B23105580005.pdf) | 题名待校读；以 PDF 封面为准 | 6  /  B  /  23105580005  /  一等奖(华为专项二等奖)  /  罗思远  /  中山大学  /  柳文涛  /  中山大学  /  欧瀚祺  /  中山大学  /  /  6  /  B  /  23105580005  /  一等奖(华为专项二等奖)  /  罗思远  /  中山大学  /  柳文涛  /  中山大学  /  欧瀚祺  /  中山大学 | NF1 | [编号匹配记录](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/papers/CPMCM/_research/MATCHES.csv) | 3295504 | 70e16c297762eaf54e3cdd02b6d9d957a5e7c94d680aef366f7e1eeb98f1c7b0 |
 | [B23106140164](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/papers/CPMCM/2023/fulltext/B/B23106140164.pdf) | 题名待校读；以 PDF 封面为准 | 9  /  B  /  23106140164  /  一等奖  /  李紫荆  /  电子科技大学  /  何诗宇  /  电子科技大学  /  龙子璇  /  电子科技大学  /  /  9  /  B  /  23106140164  /  一等奖  /  李紫荆  /  电子科技大学  /  何诗宇  /  电子科技大学  /  龙子璇  /  电子科技大学 | NF1 | [编号匹配记录](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/papers/CPMCM/_research/MATCHES.csv) | 1584461 | 51de99418dca5259b04776c5f9fa6a2495a462ee7418d171f13434d722527a06 |
 | [B23111170006](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/papers/CPMCM/2023/fulltext/B/B23111170006.pdf) | 题名待校读；以 PDF 封面为准 | 10  /  B  /  23111170006  /  一等奖  /  王鑫雨  /  扬州大学  /  林鹏  /  扬州大学  /  陈志成  /  扬州大学  /  /  10  /  B  /  23111170006  /  一等奖  /  王鑫雨  /  扬州大学  /  林鹏  /  扬州大学  /  陈志成  /  扬州大学 | NF1 | [编号匹配记录](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/papers/CPMCM/_research/MATCHES.csv) | 1740170 | 3777ef9199df5b2746cbf837d5c88aa5ee13c39a2e426f2b5f2d911178df9094 |
+
+## Participant Paper · Award Unverified：DFT类矩阵的整数分解逼近
+
+- [全文](https://github.com/reinshift/CPMC2023B/blob/681589a70c5bbe9efd880fa4e0bb4dabaf3545c7/B23107010043.pdf)；作者：徐奇琛、王桠鹏、艾珊珊（西安电子科技大学）；编号：`B23107010043`。
+- 45 页，1559766 字节；SHA256 `77fc0f43a03db18691fc310711769cae818f261ae662431bcd968a64e5378953`（本次实际计算）。
+- 奖项尚未由官方名单/证书完成绑定，不计 NF1。
+- [原仓库](https://github.com/reinshift/CPMC2023B)；再分发许可未声明，仅链接。

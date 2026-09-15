@@ -16,3 +16,7 @@
 - [LiZufan001/MathModelingStudy](https://github.com/LiZufan001/MathModelingStudy)，固定版本 `d975122ef88dffd2dc53173b83b624feb16691fe`。
 - [年度国一身份线索](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/papers/CPMCM/2025/VERIFIED_FIRST_PRIZE.md)；全年全文统计以 [覆盖矩阵](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/papers/CPMCM/COVERAGE_MATRIX.md) 和逐队匹配清单为准，旧版年度说明可能滞后。
 - 权利仍归原作者/竞赛主办方；仅索引，见 [LICENSE-NOTES](../../LICENSE-NOTES.md)。
+
+## 必收国一作品
+
+**E25104860052《面向高速列车轴承的无监督迁移诊断与可解释性分析研究》**，巫小珍、王艳茹、王睿（武汉大学）。全国一等奖。论文及代码均已建立来源链，见本题索引。

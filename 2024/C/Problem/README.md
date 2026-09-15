@@ -12,4 +12,4 @@
 | [附件二（测试集）.xlsx](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/problems/CPMCM/2024/C/%E9%99%84%E4%BB%B6%E4%BA%8C%EF%BC%88%E6%B5%8B%E8%AF%95%E9%9B%86%EF%BC%89.xlsx) | 890928 | bf6f89785c9c0f886b05bf489fc1c32e594eb1cb |
 | [附件四（Excel表）.xlsx](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/problems/CPMCM/2024/C/%E9%99%84%E4%BB%B6%E5%9B%9B%EF%BC%88Excel%E8%A1%A8%EF%BC%89.xlsx) | 14973 | 06482a39664963d69b3dadc552e1e47088e8ce9c |
 
-打开文件后用 Raw / Download 下载。分卷压缩包须下载全部分卷，并放在同一目录后解压；压缩包密码见年度官方公告。SHA256 将在总资源清单中补充；Git blob SHA-1 不等于 SHA256。许可未明确，不在本仓库复制原文件。
+打开文件后用 Raw / Download 下载。分卷压缩包须下载全部分卷，并放在同一目录后解压；压缩包密码见年度官方公告。SHA256 已实际计算，见 [PROBLEM_MANIFEST.csv](../../../Resources/PROBLEM_MANIFEST.csv)；Git blob SHA-1 不等于 SHA256。许可未明确，不在本仓库复制原文件。

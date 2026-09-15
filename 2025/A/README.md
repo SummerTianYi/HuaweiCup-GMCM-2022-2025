@@ -16,3 +16,7 @@
 - [LiZufan001/MathModelingStudy](https://github.com/LiZufan001/MathModelingStudy)，固定版本 `d975122ef88dffd2dc53173b83b624feb16691fe`。
 - [年度国一身份线索](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/papers/CPMCM/2025/VERIFIED_FIRST_PRIZE.md)；全年全文统计以 [覆盖矩阵](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/papers/CPMCM/COVERAGE_MATRIX.md) 和逐队匹配清单为准，旧版年度说明可能滞后。
 - 权利仍归原作者/竞赛主办方；仅索引，见 [LICENSE-NOTES](../../LICENSE-NOTES.md)。
+
+## 必收国一作品
+
+**A25104250018《多层协同优化的神经网络处理器核内调度算法研究》**，赵浩羽、蒋铭皓、田欣媛（中国石油大学（华东））。全国一等奖、华为专项二等奖。论文及代码均已建立来源链，见本题索引。

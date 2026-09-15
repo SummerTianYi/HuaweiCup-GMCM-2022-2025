@@ -19,7 +19,7 @@
 ## [Tereaslle/2024-CPGMCM](https://github.com/Tereaslle/2024-CPGMCM/tree/dd2e4c7ceb0d80220e499f25f9c831e307132d63)
 
 - 作者/维护者：`Tereaslle`；真实团队身份以论文封面为准。
-- 磁芯损耗 Python Notebook；不收检查点备份；PDF 需先判别题面与论文。
+- 磁芯损耗 Python Notebook；不收检查点备份；同仓 PDF 经检查为正式题面，不计参赛论文。
 - 关系：**relationship unverified**。
 - 许可：`UNSPECIFIED`；版本：`dd2e4c7ceb0d80220e499f25f9c831e307132d63`。
 - 发现代码文件 45 个、表格/数值数据文件 27 个（包含派生结果；按来源枚举，跨来源去重见总清单）。
@@ -72,7 +72,7 @@
 | [ybz/sequence_combine.py](https://github.com/Tereaslle/2024-CPGMCM/blob/dd2e4c7ceb0d80220e499f25f9c831e307132d63/ybz/sequence_combine.py) | 3013 |
 | [ybz/sequence_plot.py](https://github.com/Tereaslle/2024-CPGMCM/blob/dd2e4c7ceb0d80220e499f25f9c831e307132d63/ybz/sequence_plot.py) | 2587 |
 
-## [zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling2](https://github.com/zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling2/tree/0a33871898ef59c947e950638b2d667e5c02fe99/2024%E5%B9%B4C%E9%A2%98)
+## [zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling2](https://github.com/zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling2/tree/0a33871898ef59c947e950638b2d667e5c02fe99/2024%E5%B9%B4C%E9%A2%98%E7%AC%AC1%E9%97%AE)
 
 - 作者/维护者：`zhenhua-chen1`；真实团队身份以论文封面为准。
 - 明确对应本年本题的逐问代码；不收该仓其他年份。

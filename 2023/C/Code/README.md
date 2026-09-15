@@ -2,7 +2,7 @@
 
 以下 **1 个代码来源**均只收明确对应本题的路径。代码在作者原仓库，未复制、未运行；NF1 论文池与这些代码无默认对应关系。
 
-## [zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling2](https://github.com/zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling2/tree/0a33871898ef59c947e950638b2d667e5c02fe99/2023%E5%B9%B4C%E9%A2%98)
+## [zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling2](https://github.com/zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling2/tree/0a33871898ef59c947e950638b2d667e5c02fe99/2023%E5%B9%B4C%E9%A2%98%E7%AC%AC1%E9%97%AE)
 
 - 作者/维护者：`zhenhua-chen1`；真实团队身份以论文封面为准。
 - 明确对应本年本题的逐问代码；不收该仓其他年份。

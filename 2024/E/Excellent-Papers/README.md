@@ -8,3 +8,10 @@
 | [E24102870008](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/papers/CPMCM/2024/fulltext/E/E24102870008.pdf) | 高速公路应急车道紧急启用模型 | 曾实、仇静轩、马欣 | NF1 | [编号匹配记录](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/papers/CPMCM/_research/MATCHES_2024_2025.csv) | 20478222 | 2e6f5daacb7ce9f16e11239545f4b2b3d7bdee97ebc0b28ff32d5a5db9d20e25 |
 | [E24102910005](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/papers/CPMCM/2024/fulltext/E/E24102910005.pdf) | 基于目标检测的高速公路应急车道实时启用策略研究 | 任碧芸、张朝凯、武瑞 | NF1 | [编号匹配记录](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/papers/CPMCM/_research/MATCHES_2024_2025.csv) | 5619324 | 7420d18869b74b8f8a5d036e57ac0fa7b3a94fc54313e1729bbd97e578cfe2cd |
 | [E24106980067](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/papers/CPMCM/2024/fulltext/E/E24106980067.pdf) | 高速公路应急车道紧急启用模型 | 余浩然、陈扬、陈新永 | NF1 | [编号匹配记录](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/papers/CPMCM/_research/MATCHES_2024_2025.csv) | 6053955 | bedf322a5d2d3b75099112c0b670905eead989e7cc23905e7696dacaf432aafb |
+
+## Participant Paper · Award Unverified：多模型融合的高速公路应急车道启用决策与效果评估
+
+- [全文](https://github.com/LY-zhang-yi-hao/Huawei_Mathcup_OpenAccess/blob/2c562dbadf6f73398670145ff28f020dda75d564/E.pdf)；作者：LY-zhang-yi-hao；封面未见队号姓名；编号：`unidentified-981b7976eec6`。
+- 86 页，3213869 字节；SHA256 `981b7976eec61261aa07fbcebf332bb6ef872a8e0cf1d6735b60a6ec52eb54de`（本次实际计算）。
+- 奖项尚未由官方名单/证书完成绑定，不计 NF1。作者 README 自述全国二等奖，仅保留该自述，不升级核验等级。
+- [原仓库](https://github.com/LY-zhang-yi-hao/Huawei_Mathcup_OpenAccess)；再分发许可未声明，仅链接。

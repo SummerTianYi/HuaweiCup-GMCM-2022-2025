@@ -14,4 +14,4 @@
 | [data_q4.npy](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/problems/CPMCM/2022/A/data_q4.npy) | 352384 | 0398f2f650b20c79276fd4eb6cd757faa68adf20 |
 | [移动场景超分辨定位问题.docx](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/problems/CPMCM/2022/A/%E7%A7%BB%E5%8A%A8%E5%9C%BA%E6%99%AF%E8%B6%85%E5%88%86%E8%BE%A8%E5%AE%9A%E4%BD%8D%E9%97%AE%E9%A2%98.docx) | 86505 | b29d8fb95384ac7a8d3eeb0568f26362c5ee80f0 |
 
-打开文件后用 Raw / Download 下载。分卷压缩包须下载全部分卷，并放在同一目录后解压；压缩包密码见年度官方公告。SHA256 将在总资源清单中补充；Git blob SHA-1 不等于 SHA256。许可未明确，不在本仓库复制原文件。
+打开文件后用 Raw / Download 下载。分卷压缩包须下载全部分卷，并放在同一目录后解压；压缩包密码见年度官方公告。SHA256 已实际计算，见 [PROBLEM_MANIFEST.csv](../../../Resources/PROBLEM_MANIFEST.csv)；Git blob SHA-1 不等于 SHA256。许可未明确，不在本仓库复制原文件。

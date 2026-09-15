@@ -42,7 +42,7 @@
 | [Demo5/d5_1.ipynb](https://github.com/zyaaagit/huawei2022E/blob/49513da47a816aec816f3837ea262b5d79cbda2b/Demo5/d5_1.ipynb) | 465219 |
 | [Demo6/d5_1.ipynb](https://github.com/zyaaagit/huawei2022E/blob/49513da47a816aec816f3837ea262b5d79cbda2b/Demo6/d5_1.ipynb) | 3055 |
 
-## [zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling2](https://github.com/zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling2/tree/0a33871898ef59c947e950638b2d667e5c02fe99/2022%E5%B9%B4E%E9%A2%98)
+## [zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling2](https://github.com/zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling2/tree/0a33871898ef59c947e950638b2d667e5c02fe99/2022%E5%B9%B4E%E9%A2%98%E7%AC%AC2%E9%97%AE)
 
 - 作者/维护者：`zhenhua-chen1`；真实团队身份以论文封面为准。
 - 明确对应本年本题的逐问代码；不收该仓其他年份。

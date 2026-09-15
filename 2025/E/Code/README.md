@@ -61,3 +61,7 @@
 | [code/utils/dataVisual.py](https://github.com/wxzher/2025-HuaweiCup-E/blob/e81c57fb2fb07284f73bce17e0b488b6c497e3fd/code/utils/dataVisual.py) | 19424 |
 
 [完整文件与指纹清单](../../../Resources/RESOURCE_MANIFEST.csv)。先按作者 README 配置环境、准备数据、检查路径，再按问题顺序运行；本库不宣称已经复现论文结果。
+
+## 已核验论文—代码关系
+
+`E25104860052`：作者仓 PDF 实际下载 SHA256 `75fc91866434cae19facfd85afe92315dd3193e568d59efbff465bc616d8f2b4`、字节数 `14396569` 与主论文池相同。作者 README 将此仓代码作为该作品方案公开，因此可关联到本队论文。此关联不等于已重现实验。

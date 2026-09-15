@@ -47,3 +47,7 @@
 | [scripts/runners/run_submission.py](https://github.com/Zysishuiyears/2025Huaweicup_Cachenpuscheduling/blob/6281377e032f06982b0b2a30d8764e75ee6012ac/scripts/runners/run_submission.py) | 2013 |
 
 [完整文件与指纹清单](../../../Resources/RESOURCE_MANIFEST.csv)。先按作者 README 配置环境、准备数据、检查路径，再按问题顺序运行；本库不宣称已经复现论文结果。
+
+## 已核验论文—代码关系
+
+`A25104250018`：作者仓 PDF 实际下载 SHA256 `fdc0080d00063a1f00201848d1184cc471bd3318966aa75aa93f61b3342a60df`、字节数 `16470062` 与主论文池相同。作者 README 将此仓代码作为该作品方案公开，因此可关联到本队论文。此关联不等于已重现实验。

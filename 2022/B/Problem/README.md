@@ -16,4 +16,4 @@
 | [dataB5.csv](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/problems/CPMCM/2022/B/%E5%AD%90%E9%97%AE%E9%A2%982-%E6%95%B0%E6%8D%AE%E9%9B%86B/dataB5.csv) | 1082431 | bf468b53f44c145daf8b528c944a9a76f0c8f945 |
 | [方形件组批优化问题.docx](https://github.com/LiZufan001/MathModelingStudy/blob/d975122ef88dffd2dc53173b83b624feb16691fe/problems/CPMCM/2022/B/%E6%96%B9%E5%BD%A2%E4%BB%B6%E7%BB%84%E6%89%B9%E4%BC%98%E5%8C%96%E9%97%AE%E9%A2%98.docx) | 110349 | 8f41985516f0be60bfdf8a3afda174d1d8b5720f |
 
-打开文件后用 Raw / Download 下载。分卷压缩包须下载全部分卷，并放在同一目录后解压；压缩包密码见年度官方公告。SHA256 将在总资源清单中补充；Git blob SHA-1 不等于 SHA256。许可未明确，不在本仓库复制原文件。
+打开文件后用 Raw / Download 下载。分卷压缩包须下载全部分卷，并放在同一目录后解压；压缩包密码见年度官方公告。SHA256 已实际计算，见 [PROBLEM_MANIFEST.csv](../../../Resources/PROBLEM_MANIFEST.csv)；Git blob SHA-1 不等于 SHA256。许可未明确，不在本仓库复制原文件。
