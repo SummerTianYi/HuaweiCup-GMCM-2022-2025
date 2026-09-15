@@ -1,0 +1,2 @@
+# Python 3.10+; listing/downloading use only the standard library.
+pypdf==6.10.0

@@ -1,0 +1,7 @@
+# Originals and extracted full text are temporary, not redistribution artifacts.
+.cache/
+__pycache__/
+*.pyc
+.venv/
+Resources/*.csv.lock
+Resources/*.csv.tmp

@@ -1,84 +1,48 @@
 # HuaweiCup-GMCM-2022-2025
 
-**2022–2025 四届“华为杯”中国研究生数学建模竞赛（CPMCM）学习导航。** 24题全部提供正式赛题入口、优秀/获奖论文或明确优秀论文来源；只收研究生全国赛。
+2022–2025 华为杯中国研究生数学建模竞赛（CPMCM）的原件定位与按需读取索引；只收研究生全国赛。
 
-## 从这里开始
+**当前阶段：资料准备与结构整理。尚未开展论文精读或蒸馏。** 库内主要是来源和元数据，获取、提取、阅读分别记录；历史获奖核验不等于学习进度。
 
-1. 在下表点击题号，先看 `Problem` 正式题面与附件。
-2. 从 `Excellent-Papers` 选择论文；NF1优先，2025候选明确区分“全文”与“线索”。
-3. 查看 `Code` 的对应关系、环境和入口，以及 `Data` 的原始/派生/外部下载区别。代码尚未重现实验。
+## Agent 从这里开始
 
-**这是可点击下载原件的来源索引，不是PDF镜像合集。** 主来源及多数作者仓未给出再分发许可，因此保留逐文件固定版本链接、归属和指纹。PDF打开后点击 Raw / Download；CSV清单中的链接可用于定位全部原件。
+**选择题目或论文 → 定位清单记录 → 获取原件 → 按需提取。** 不需要先通读所有 README 或大型 CSV。
 
-[全部来源与证据](SOURCES.md) · [许可说明](LICENSE-NOTES.md) · [模板](Templates/README.md) · [机器可读清单](Resources/README.md) · [缺口](Resources/GAPS.md)
+1. 从下表进入一道题的简短 README，按需打开题面、论文、代码或数据子索引。
+2. 用下方 `--list` 找到稳定 `paper_id`；只读取匹配记录。字段及状态见 [Resources](Resources/README.md)。
+3. 对选中的一篇运行 `--download` 或 `--extract`。原件、逐页文本放临时缓存，不自动提交；返回 PDF 原页检查公式、图表和版式。
 
-## 覆盖情况
+```console
+python scripts/prepare_papers.py --year 2022 --problem A --limit 2 --list
+python scripts/prepare_papers.py --paper-id CPMCM-A22100070190 --extract
+```
 
-Problem=题面已定位；Paper计数为可定位全文，Excellent线索单列；Code以“题号×作者来源包”计数，Data状态不代表完整输入已齐。
+提取需要 Python 3.10+ 和 [pypdf 依赖](scripts/requirements.txt)；列出和下载仅需标准库。[运行、恢复与缓存说明](Resources/README.md)。
 
-### 2022
+## 四年 A–F 导航
 
-| 题号 | Problem | Paper | Excellent线索 | Code来源 | Data |
-| --- | --- | --- | --- | --- | --- |
-| [A](2022/A/README.md) | ✓ | NF1 7 | — | 缺 | 文件/来源 |
-| [B](2022/B/README.md) | ✓ | NF1 7 | — | 1 | 文件/来源 |
-| [C](2022/C/README.md) | ✓ | NF1 7 | — | 缺 | 文件/来源 |
-| [D](2022/D/README.md) | ✓ | NF1 7 | — | 2 | 文件/来源 |
-| [E](2022/E/README.md) | ✓ | NF1 6 | — | 3 | 文件/来源 |
-| [F](2022/F/README.md) | ✓ | NF1 7 | — | 缺 | 文件/来源 |
+| 年份 | A | B | C | D | E | F |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2022 | [A](2022/A/README.md) | [B](2022/B/README.md) | [C](2022/C/README.md) | [D](2022/D/README.md) | [E](2022/E/README.md) | [F](2022/F/README.md) |
+| 2023 | [A](2023/A/README.md) | [B](2023/B/README.md) | [C](2023/C/README.md) | [D](2023/D/README.md) | [E](2023/E/README.md) | [F](2023/F/README.md) |
+| 2024 | [A](2024/A/README.md) | [B](2024/B/README.md) | [C](2024/C/README.md) | [D](2024/D/README.md) | [E](2024/E/README.md) | [F](2024/F/README.md) |
+| 2025 | [A](2025/A/README.md) | [B](2025/B/README.md) | [C](2025/C/README.md) | [D](2025/D/README.md) | [E](2025/E/README.md) | [F](2025/F/README.md) |
 
-### 2023
+## 目录与状态概览
 
-| 题号 | Problem | Paper | Excellent线索 | Code来源 | Data |
-| --- | --- | --- | --- | --- | --- |
-| [A](2023/A/README.md) | ✓ | NF1 10 | — | 1 | 文件/来源 |
-| [B](2023/B/README.md) | ✓ | NF1 9 + Participant 1 | — | 1 | 未找到独立附件 |
-| [C](2023/C/README.md) | ✓ | NF1 10 | — | 1 | 文件/来源 |
-| [D](2023/D/README.md) | ✓ | NF1 9 | — | 缺 | 文件/来源 |
-| [E](2023/E/README.md) | ✓ | NF1 10 + Participant 1 | — | 1 | 文件/来源 |
-| [F](2023/F/README.md) | ✓ | NF1 10 | — | 1 | 外部下载线索 |
+- `年份/题号/README.md`：单题入口；`Problem`、`Excellent-Papers`、已有 `Code`/`Data` 为详细子索引，没有资源不建空目录。
+- `Resources/`：资源清单、状态字段、覆盖表、历史核验和缺口。
+- `scripts/`：筛选、获取、逐页提取与离线校验；不运行比赛代码。
+- `Templates/STUDY-NOTE.md`：未来学习笔记的空白模板。
 
-### 2024
+<!-- manifest-stats:start -->
+- 论文记录：库内原件 **0**，外部全文 **130**（NF1 125、Participant 5），仅线索 **21**。线索不计全文。
+- 题目入口 **24**；代码来源包 **23**，覆盖 **16** 题；数据含原始/派生/外部线索，详见各题。
+- 状态记录：曾获取成功 **9**；逐页提取完成 **2**（其中 **2** 待人工检查）；已精读 **0**。成功记录不保证临时缓存仍在。
+<!-- manifest-stats:end -->
 
-| 题号 | Problem | Paper | Excellent线索 | Code来源 | Data |
-| --- | --- | --- | --- | --- | --- |
-| [A](2024/A/README.md) | ✓ | NF1 4 | — | 1 | 文件/来源 |
-| [B](2024/B/README.md) | ✓ | NF1 4 | — | 缺 | 文件/来源 |
-| [C](2024/C/README.md) | ✓ | NF1 4 + Participant 1 | — | 3 | 文件/来源 |
-| [D](2024/D/README.md) | ✓ | NF1 4 | — | 缺 | 外部下载线索 |
-| [E](2024/E/README.md) | ✓ | NF1 4 + Participant 1 | — | 1 | 派生文件+视频线索 |
-| [F](2024/F/README.md) | ✓ | NF1 4 | — | 1 | 文件/来源 |
+统计由 `python scripts/validate_repository.py --refresh` 从现有清单生成。获奖 NF1/NF2/NF3、Excellent、Participant、Unverified 及准备状态的含义集中在 [Resources](Resources/README.md)。
 
-### 2025
+[来源与奖项证据](SOURCES.md) · [许可边界](LICENSE-NOTES.md) · [资料缺口](Resources/GAPS.md) · [历史核验](Resources/VALIDATION.md) · [历史补搜](Resources/SEARCH-LOG.md) · [学习模板](Templates/STUDY-NOTE.md)
 
-| 题号 | Problem | Paper | Excellent线索 | Code来源 | Data |
-| --- | --- | --- | --- | --- | --- |
-| [A](2025/A/README.md) | ✓ | NF1 1 | 4 | 2 | 示例计算图 |
-| [B](2025/B/README.md) | ✓ | NF1 0 | 3 | 缺 | 未找到独立附件 |
-| [C](2025/C/README.md) | ✓ | NF1 0 + Participant 1 | 5 | 1 | 附件链接+派生结果 |
-| [D](2025/D/README.md) | ✓ | NF1 0 | 2 | 1 | 处理数据/结果 |
-| [E](2025/E/README.md) | ✓ | NF1 1 | 3 | 2 | 缺原始数据 |
-| [F](2025/F/README.md) | ✓ | NF1 0 | 4 | 缺 | 未找到独立附件 |
-
-## 总量与统计口径
-
-- **24道正式赛题**；119个题面/附件/说明文件已实际下载并核算SHA256（题面不同格式、数据文件不重复计为新题）。
-- **125篇已核验全国一等奖全文索引**：2022 41、2023 58、2024 24、2025 2。按唯一参赛编号去重；核验依据为主来源逐队匹配池。
-- **5篇其他参赛论文全文**：Participant / Award Unverified，已检查PDF和SHA256；不虚标国一。
-- **21条2025优秀论文选线索**：A4/B3/C5/D2/E3/F4，PDF本体尚未取得；不计入130篇可定位全文，也不能保证与其他论文不重合。其他新增、已核实奖项的优秀全文数为0。
-- **23个代码来源包，覆盖16/24题**；18个来源包带有可见数值/表格数据（含派生结果）。文件清单去重后 Code 314、Data 430 条；官方附件另见PROBLEM_MANIFEST。
-
-## 标记含义
-
-| 标记 | 含义 |
-| --- | --- |
-| NF1 | 全国一等奖；须有对应作品/队号的核验证据 |
-| NF2 | 全国二等奖；须有可绑定该作品的核验证据，作者自述另标Unverified |
-| NF3 | 全国三等奖；同上，证书或官方名单与作品关系须清楚 |
-| Excellent | 优秀论文选；不自动代表全国一等奖，也不保证已取得全文 |
-| Participant | 公开参赛论文/代码，作品赛事身份可确认，奖项未核实 |
-| Unverified | 奖项、作者身份或论文—代码关系尚缺证据；不能升级奖项 |
-| Code | 找到本题代码来源；不代表属于本题全部NF1论文，也不代表运行通过 |
-| Data | 数据文件或下载来源；须读细分状态，派生数据不等于完整官方输入 |
-
-核验日期：2026-09-15。所有第三方内容权利归原作者/主办方，详见许可说明。
+未来确有人工审读/蒸馏成果时，可放在对应题目下 `Notes/<paper_id>.md`，使用学习模板并标注证据；现在不创建该目录或任何学习成果。
