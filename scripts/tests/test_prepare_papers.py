@@ -93,6 +93,28 @@ class PreparationTests(unittest.TestCase):
                 self.assertTrue(result["manual_review_required"])
                 self.assertEqual(row["reading_status"], "unchecked")
 
+    def test_non_object_page_cache_is_reextracted(self):
+        class Page(dict):
+            def extract_text(self):
+                return "Freshly extracted text " * 10
+
+        for cached in ([], None, 42, 3.14, "invalid cache", True):
+            with self.subTest(cached=cached), tempfile.TemporaryDirectory() as tmp:
+                folder = Path(tmp)
+                output = folder / "page-0001.json"
+                output.write_text(json.dumps(cached), encoding="utf-8")
+                with patch("pypdf.PdfReader") as reader, \
+                        patch.object(Page, "extract_text", return_value="Freshly extracted text " * 10) as extract_text:
+                    reader.return_value.is_encrypted = False
+                    reader.return_value.pages = [Page()]
+                    self.assertEqual(prep.extract(record(), folder / "fake.pdf", "digest", folder), "extracted")
+                    extract_text.assert_called_once_with()
+                result = json.loads(output.read_text(encoding="utf-8"))
+                self.assertIsInstance(result, dict)
+                self.assertEqual(result["physical_page"], 1)
+                self.assertEqual(result["paper_id"], "CPMCM-TEST")
+                self.assertEqual(result["text"], "Freshly extracted text " * 10)
+
     def test_manifest_external_edit_is_preserved(self):
         with tempfile.TemporaryDirectory() as tmp:
             manifest = Path(tmp) / "papers.csv"

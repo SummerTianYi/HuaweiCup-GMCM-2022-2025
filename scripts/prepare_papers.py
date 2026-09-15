@@ -128,7 +128,8 @@ def extract(row: dict[str, str], pdf: Path, actual_hash: str, folder: Path) -> s
         if output.exists():
             try:
                 saved = json.loads(output.read_text(encoding="utf-8"))
-                if (saved.get("pdf_sha256") == actual_hash and
+                if (isinstance(saved, dict) and
+                        saved.get("pdf_sha256") == actual_hash and
                         saved.get("paper_id") == row["paper_id"] and
                         saved.get("physical_page") == physical_page and
                         isinstance(saved.get("text"), str) and
