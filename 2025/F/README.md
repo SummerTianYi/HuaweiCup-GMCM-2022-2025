@@ -4,8 +4,8 @@
 
 - **Problem**：[正式赛题、附件与来源](Problem/README.md)
 - **Paper**：[优秀/获奖论文](Excellent-Papers/README.md)：NF1 0 篇；另有优秀论文选候选来源，全文待取得。
-- **Code**：作者代码来源正在下一批补充；未确认论文与代码关系时标记 relationship unverified。
-- **Data**：已发现的官方附件见 Problem；附件完整性及外部大数据下载见后续 Data 索引。
+- **Code**：尚未找到经过赛事/题号核实的公开作者代码。
+- **Data**：未发现独立数据文件；按题面定义构造输入或仿真，是否需要额外附件以题面为准。
 
 ## 学习顺序
 
